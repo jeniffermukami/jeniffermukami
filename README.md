@@ -1,5 +1,5 @@
 ### 💫 Hi, there 👋! I am Jenny:
-🔭 A curiosity driven data scientist .<br>👯 I’m looking to collaborate on matters data science for social good.<br>🌱 I’m currently learning software engineering at ALX.<br>😄 Pronouns:She/Her<br>
+🔭 A curiosity driven data scientist .<br>👯 I’m looking to collaborate on matters data science for social good.<br>🌱 I’m currently a Data Science Fellow at Prospect 33.<br>😄 Pronouns:She/Her<br>
 
 
 ## 🌐 Socials:
